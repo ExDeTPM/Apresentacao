@@ -21,6 +21,3 @@ Espero que você goste do meu espaço e sinta-se à vontade para explorar meus p
 ---
 
 ✨ **Python** Simples e elegante, sempre! 🐍  
-
-
-![Divertido GIF](https://giphy.com/gifs/kirby-lcwrrsfs4Px6w)
